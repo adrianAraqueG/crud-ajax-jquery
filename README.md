@@ -1,7 +1,7 @@
 # crud-ajax-jquery
 
 <h3> How do it </h3>
-<h5> Using JQuery and PHP, i did a CRUD who saved the tasks in cloud (using a server for database on clevercloud.com)</h5>
+<h5> Using JQuery and PHP, i did a CRUD who saved the tasks in cloud (using a database server on clevercloud.com)</h5>
 
 <hr>
 
